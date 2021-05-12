@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFAQS", "MFAQS-core\MFAQS.v
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WORKRUN", "WORKRUN\WORKRUN.vcxproj", "{8D7BD197-0450-4951-B8EF-5D7DD4FF5AA6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dlltest", "dlltest\dlltest.vcxproj", "{5662C8D4-36DA-454D-9F82-EE07E09633AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -21,6 +23,10 @@ Global
 		{8D7BD197-0450-4951-B8EF-5D7DD4FF5AA6}.Debug|x86.Build.0 = Debug|Win32
 		{8D7BD197-0450-4951-B8EF-5D7DD4FF5AA6}.Release|x86.ActiveCfg = Release|Win32
 		{8D7BD197-0450-4951-B8EF-5D7DD4FF5AA6}.Release|x86.Build.0 = Release|Win32
+		{5662C8D4-36DA-454D-9F82-EE07E09633AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{5662C8D4-36DA-454D-9F82-EE07E09633AE}.Debug|x86.Build.0 = Debug|Win32
+		{5662C8D4-36DA-454D-9F82-EE07E09633AE}.Release|x86.ActiveCfg = Release|Win32
+		{5662C8D4-36DA-454D-9F82-EE07E09633AE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
