@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{48dc9186-a328-459f-bb5b-0f90e77ed138}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{46c4e811-9388-456d-a527-c746a5ad0386}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{2dd1efcc-e990-4189-8fd7-e58e961b16ed}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MFAQS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MFAQSCFG.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MFAQSCMD.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MFAQSJOB.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MFAQSLOG.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MFAQSPAR.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MFAQSWRK.CPP">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MFAQS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MFAQSCFG.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MFAQSJOB.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MFAQSLOG.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MFAQSPAR.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MFAQSWRK.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MFAQS.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

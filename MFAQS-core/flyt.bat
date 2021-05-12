@@ -1,0 +1,11 @@
+copy dll\db2out\release\DB2OUT.DLL k:\mfaqs\dll\DB2OUT.DLL
+copy dll\dummyjob\release\DUMMYJOB.DLL k:\mfaqs\dll\DUMMYJOB.DLL
+copy dll\faqsrtn\release\FAQSRTN.DLL k:\mfaqs\dll\FAQSRTN.DLL
+copy dll\kavaluta\release\KAVALUTA.DLL k:\mfaqs\dll\KAVALUTA.DLL
+copy dll\misql\release\MISQL.DLL k:\mfaqs\dll\MISQL.DLL
+copy dll\notesatt\release\NOTESATT.DLL k:\mfaqs\dll\NOTESATT.DLL
+copy dll\remotejob\release\REMOTEJOB.DLL k:\mfaqs\dll\REMOTEJOB.DLL
+copy dll\sqlinp\release\SQLINP.DLL k:\mfaqs\dll\SQLINP.DLL
+copy dll\vlvaluta\release\VLVALUTA.DLL k:\mfaqs\dll\VLVALUTA.DLL
+copy dll\vsam2sql\release\VSAM2SQL.DLL k:\mfaqs\dll\VSAM2SQL.DLL
+copy release\MFAQS.EXE k:\mfaqs\MFAQS.EXE
